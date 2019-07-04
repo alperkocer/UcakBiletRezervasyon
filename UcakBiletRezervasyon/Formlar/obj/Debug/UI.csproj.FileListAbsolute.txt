@@ -1,0 +1,117 @@
+C:\Users\irem eren\Desktop\UcakBiletRezervasyon\Formlar\bin\Debug\Formlar.exe.config
+C:\Users\irem eren\Desktop\UcakBiletRezervasyon\Formlar\bin\Debug\Formlar.exe
+C:\Users\irem eren\Desktop\UcakBiletRezervasyon\Formlar\bin\Debug\Formlar.pdb
+C:\Users\irem eren\Desktop\UcakBiletRezervasyon\Formlar\obj\Debug\UI.csprojAssemblyReference.cache
+C:\Users\irem eren\Desktop\UcakBiletRezervasyon\Formlar\obj\Debug\Formlar.Form1.resources
+C:\Users\irem eren\Desktop\UcakBiletRezervasyon\Formlar\obj\Debug\Formlar.Properties.Resources.resources
+C:\Users\irem eren\Desktop\UcakBiletRezervasyon\Formlar\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\irem eren\Desktop\UcakBiletRezervasyon\Formlar\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\irem eren\Desktop\UcakBiletRezervasyon\Formlar\obj\Debug\Formlar.exe
+C:\Users\irem eren\Desktop\UcakBiletRezervasyon\Formlar\obj\Debug\Formlar.pdb
+C:\Users\irem eren\Desktop\UcakBiletRezervasyon\Formlar\obj\Debug\Formlar.Form2.resources
+C:\Users\irem eren\Desktop\UcakBiletRezervasyon\Formlar\obj\Debug\Formlar.Form3.resources
+C:\Users\irem eren\Desktop\UcakBiletRezervasyon\Formlar\obj\Debug\Formlar.Form4.resources
+C:\Users\irem eren\Desktop\UcakBiletRezervasyon\Formlar\obj\Debug\Formlar.Form3_2.resources
+C:\Users\irem eren\Desktop\UcakBiletRezervasyon\Formlar\obj\Debug\Formlar.Form5.resources
+C:\Users\User\Source\Repos\FlightReservationSystem\UcakBiletRezervasyon\Formlar\bin\Debug\Formlar.exe.config
+C:\Users\User\Source\Repos\FlightReservationSystem\UcakBiletRezervasyon\Formlar\bin\Debug\Formlar.exe
+C:\Users\User\Source\Repos\FlightReservationSystem\UcakBiletRezervasyon\Formlar\bin\Debug\Formlar.pdb
+C:\Users\User\Source\Repos\FlightReservationSystem\UcakBiletRezervasyon\Formlar\obj\Debug\UI.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\FlightReservationSystem\UcakBiletRezervasyon\Formlar\obj\Debug\Formlar.Form1.resources
+C:\Users\User\Source\Repos\FlightReservationSystem\UcakBiletRezervasyon\Formlar\obj\Debug\Formlar.Form2.resources
+C:\Users\User\Source\Repos\FlightReservationSystem\UcakBiletRezervasyon\Formlar\obj\Debug\Formlar.Form3.resources
+C:\Users\User\Source\Repos\FlightReservationSystem\UcakBiletRezervasyon\Formlar\obj\Debug\Formlar.Form3_2.resources
+C:\Users\User\Source\Repos\FlightReservationSystem\UcakBiletRezervasyon\Formlar\obj\Debug\Formlar.Form4.resources
+C:\Users\User\Source\Repos\FlightReservationSystem\UcakBiletRezervasyon\Formlar\obj\Debug\Formlar.Form5.resources
+C:\Users\User\Source\Repos\FlightReservationSystem\UcakBiletRezervasyon\Formlar\obj\Debug\Formlar.Properties.Resources.resources
+C:\Users\User\Source\Repos\FlightReservationSystem\UcakBiletRezervasyon\Formlar\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\User\Source\Repos\FlightReservationSystem\UcakBiletRezervasyon\Formlar\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\FlightReservationSystem\UcakBiletRezervasyon\Formlar\obj\Debug\Formlar.exe
+C:\Users\User\Source\Repos\FlightReservationSystem\UcakBiletRezervasyon\Formlar\obj\Debug\Formlar.pdb
+C:\Users\irem eren\Desktop\proje\UcakBiletRezervasyon\Formlar\obj\Debug\UI.csprojAssemblyReference.cache
+C:\Users\irem eren\Desktop\proje\UcakBiletRezervasyon\Formlar\obj\Debug\Formlar.exe
+C:\Users\irem eren\Desktop\proje\UcakBiletRezervasyon\Formlar\obj\Debug\Formlar.pdb
+C:\Users\irem eren\Desktop\Yeni klasör (4)\UcakBiletRezervasyon\Formlar\bin\Debug\Formlar.exe.config
+C:\Users\irem eren\Desktop\Yeni klasör (4)\UcakBiletRezervasyon\Formlar\bin\Debug\Formlar.exe
+C:\Users\irem eren\Desktop\Yeni klasör (4)\UcakBiletRezervasyon\Formlar\bin\Debug\Formlar.pdb
+C:\Users\irem eren\Desktop\Yeni klasör (4)\UcakBiletRezervasyon\Formlar\bin\Debug\DAL.dll
+C:\Users\irem eren\Desktop\Yeni klasör (4)\UcakBiletRezervasyon\Formlar\bin\Debug\EntityFramework.dll
+C:\Users\irem eren\Desktop\Yeni klasör (4)\UcakBiletRezervasyon\Formlar\bin\Debug\DATA.dll
+C:\Users\irem eren\Desktop\Yeni klasör (4)\UcakBiletRezervasyon\Formlar\bin\Debug\DAL.pdb
+C:\Users\irem eren\Desktop\Yeni klasör (4)\UcakBiletRezervasyon\Formlar\bin\Debug\DAL.dll.config
+C:\Users\irem eren\Desktop\Yeni klasör (4)\UcakBiletRezervasyon\Formlar\bin\Debug\EntityFramework.xml
+C:\Users\irem eren\Desktop\Yeni klasör (4)\UcakBiletRezervasyon\Formlar\bin\Debug\DATA.pdb
+C:\Users\irem eren\Desktop\Yeni klasör (4)\UcakBiletRezervasyon\Formlar\obj\Debug\UI.csprojAssemblyReference.cache
+C:\Users\irem eren\Desktop\Yeni klasör (4)\UcakBiletRezervasyon\Formlar\obj\Debug\Formlar.Properties.Resources.resources
+C:\Users\irem eren\Desktop\Yeni klasör (4)\UcakBiletRezervasyon\Formlar\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\irem eren\Desktop\Yeni klasör (4)\UcakBiletRezervasyon\Formlar\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\irem eren\Desktop\Yeni klasör (4)\UcakBiletRezervasyon\Formlar\obj\Debug\UI.csproj.CopyComplete
+C:\Users\irem eren\Desktop\Yeni klasör (4)\UcakBiletRezervasyon\Formlar\obj\Debug\Formlar.exe
+C:\Users\irem eren\Desktop\Yeni klasör (4)\UcakBiletRezervasyon\Formlar\obj\Debug\Formlar.pdb
+C:\Users\irem eren\Desktop\Yeni klasör (4)\UcakBiletRezervasyon\Formlar\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\irem eren\Desktop\Yeni klasör (4)\UcakBiletRezervasyon\Formlar\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\irem eren\Desktop\Yeni klasör (4)\UcakBiletRezervasyon\Formlar\obj\Debug\Formlar.Giris.resources
+C:\Users\irem eren\Desktop\Yeni klasör (4)\UcakBiletRezervasyon\Formlar\obj\Debug\Formlar.KoltukSecimi.resources
+C:\Users\irem eren\Desktop\Yeni klasör (4)\UcakBiletRezervasyon\Formlar\obj\Debug\Formlar.YolcuBilgileri.resources
+C:\Users\irem eren\Desktop\Yeni klasör (4)\UcakBiletRezervasyon\Formlar\obj\Debug\Formlar.UcusAra.resources
+C:\Users\irem eren\Desktop\Yeni klasör (4)\UcakBiletRezervasyon\Formlar\obj\Debug\Formlar.Bilet.resources
+C:\Users\irem eren\Desktop\Yeni klasör (4)\UcakBiletRezervasyon\Formlar\obj\Debug\Formlar.Odeme.resources
+C:\Users\irem eren\Desktop\Yeni klasör (4)\UcakBiletRezervasyon\Formlar\obj\Debug\Formlar.UyeOl.resources
+C:\Users\irem eren\Desktop\Yeni klasör (4)\UcakBiletRezervasyon\Formlar\obj\Debug\Formlar.yemekBagajSecimi.resources
+C:\Users\irem eren\Desktop\Yeni klasör (4)\UcakBiletRezervasyon\Formlar\bin\Debug\DATA.dll.config
+C:\Users\irem eren\Desktop\proje\zz\UcakBiletRezervasyon\Formlar\obj\Debug\UI.csprojAssemblyReference.cache
+C:\Users\irem eren\Desktop\proje\zz\UcakBiletRezervasyon\Formlar\obj\Debug\Formlar.KoltukSecimi.resources
+C:\Users\irem eren\Desktop\proje\zz\UcakBiletRezervasyon\Formlar\obj\Debug\Formlar.UcusAra.resources
+C:\Users\irem eren\Desktop\proje\zz\UcakBiletRezervasyon\Formlar\obj\Debug\Formlar.UyeOl.resources
+C:\Users\irem eren\Desktop\proje\zz\UcakBiletRezervasyon\Formlar\obj\Debug\Formlar.YolcuBilgileri.resources
+C:\Users\irem eren\Desktop\proje\zz\UcakBiletRezervasyon\Formlar\obj\Debug\Formlar.YemekBagajSecimi.resources
+C:\Users\irem eren\Desktop\proje\zz\UcakBiletRezervasyon\Formlar\obj\Debug\Formlar.Odeme.resources
+C:\Users\irem eren\Desktop\proje\zz\UcakBiletRezervasyon\Formlar\obj\Debug\Formlar.Giris.resources
+C:\Users\irem eren\Desktop\proje\zz\UcakBiletRezervasyon\Formlar\obj\Debug\Formlar.Properties.Resources.resources
+C:\Users\irem eren\Desktop\proje\zz\UcakBiletRezervasyon\Formlar\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\irem eren\Desktop\proje\zz\UcakBiletRezervasyon\Formlar\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\irem eren\Desktop\proje\zz\UcakBiletRezervasyon\Formlar\obj\Debug\Formlar.exe
+C:\Users\irem eren\Desktop\proje\zz\UcakBiletRezervasyon\Formlar\obj\Debug\Formlar.pdb
+C:\Users\irem eren\Desktop\proje\zz\UcakBiletRezervasyon\Formlar\bin\Debug\Formlar.exe.config
+C:\Users\irem eren\Desktop\proje\zz\UcakBiletRezervasyon\Formlar\bin\Debug\Formlar.exe
+C:\Users\irem eren\Desktop\proje\zz\UcakBiletRezervasyon\Formlar\bin\Debug\Formlar.pdb
+C:\Users\irem eren\Desktop\proje\zz\UcakBiletRezervasyon\Formlar\bin\Debug\DAL.dll
+C:\Users\irem eren\Desktop\proje\zz\UcakBiletRezervasyon\Formlar\bin\Debug\DATA.dll
+C:\Users\irem eren\Desktop\proje\zz\UcakBiletRezervasyon\Formlar\bin\Debug\EntityFramework.dll
+C:\Users\irem eren\Desktop\proje\zz\UcakBiletRezervasyon\Formlar\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\irem eren\Desktop\proje\zz\UcakBiletRezervasyon\Formlar\bin\Debug\DAL.pdb
+C:\Users\irem eren\Desktop\proje\zz\UcakBiletRezervasyon\Formlar\bin\Debug\DAL.dll.config
+C:\Users\irem eren\Desktop\proje\zz\UcakBiletRezervasyon\Formlar\bin\Debug\DATA.pdb
+C:\Users\irem eren\Desktop\proje\zz\UcakBiletRezervasyon\Formlar\bin\Debug\DATA.dll.config
+C:\Users\irem eren\Desktop\proje\zz\UcakBiletRezervasyon\Formlar\bin\Debug\EntityFramework.xml
+C:\Users\irem eren\Desktop\proje\zz\UcakBiletRezervasyon\Formlar\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\irem eren\Desktop\proje\zz\UcakBiletRezervasyon\Formlar\obj\Debug\UI.csproj.CopyComplete
+C:\Users\irem eren\Desktop\proje\zz\UcakBiletRezervasyon\Formlar\obj\Debug\Formlar.Biletler.resources
+C:\Users\Mervksss\Desktop\UcakBiletRezervasyon\Formlar\bin\Debug\Formlar.exe.config
+C:\Users\Mervksss\Desktop\UcakBiletRezervasyon\Formlar\bin\Debug\Formlar.exe
+C:\Users\Mervksss\Desktop\UcakBiletRezervasyon\Formlar\bin\Debug\Formlar.pdb
+C:\Users\Mervksss\Desktop\UcakBiletRezervasyon\Formlar\bin\Debug\DAL.dll
+C:\Users\Mervksss\Desktop\UcakBiletRezervasyon\Formlar\bin\Debug\DATA.dll
+C:\Users\Mervksss\Desktop\UcakBiletRezervasyon\Formlar\bin\Debug\EntityFramework.dll
+C:\Users\Mervksss\Desktop\UcakBiletRezervasyon\Formlar\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mervksss\Desktop\UcakBiletRezervasyon\Formlar\bin\Debug\DAL.pdb
+C:\Users\Mervksss\Desktop\UcakBiletRezervasyon\Formlar\bin\Debug\DAL.dll.config
+C:\Users\Mervksss\Desktop\UcakBiletRezervasyon\Formlar\bin\Debug\DATA.pdb
+C:\Users\Mervksss\Desktop\UcakBiletRezervasyon\Formlar\bin\Debug\DATA.dll.config
+C:\Users\Mervksss\Desktop\UcakBiletRezervasyon\Formlar\bin\Debug\EntityFramework.xml
+C:\Users\Mervksss\Desktop\UcakBiletRezervasyon\Formlar\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mervksss\Desktop\UcakBiletRezervasyon\Formlar\obj\Debug\UI.csprojAssemblyReference.cache
+C:\Users\Mervksss\Desktop\UcakBiletRezervasyon\Formlar\obj\Debug\Formlar.KoltukSecimi.resources
+C:\Users\Mervksss\Desktop\UcakBiletRezervasyon\Formlar\obj\Debug\Formlar.UcusAra.resources
+C:\Users\Mervksss\Desktop\UcakBiletRezervasyon\Formlar\obj\Debug\Formlar.Biletler.resources
+C:\Users\Mervksss\Desktop\UcakBiletRezervasyon\Formlar\obj\Debug\Formlar.UyeOl.resources
+C:\Users\Mervksss\Desktop\UcakBiletRezervasyon\Formlar\obj\Debug\Formlar.YolcuBilgileri.resources
+C:\Users\Mervksss\Desktop\UcakBiletRezervasyon\Formlar\obj\Debug\Formlar.YemekBagajSecimi.resources
+C:\Users\Mervksss\Desktop\UcakBiletRezervasyon\Formlar\obj\Debug\Formlar.Odeme.resources
+C:\Users\Mervksss\Desktop\UcakBiletRezervasyon\Formlar\obj\Debug\Formlar.Giris.resources
+C:\Users\Mervksss\Desktop\UcakBiletRezervasyon\Formlar\obj\Debug\Formlar.Properties.Resources.resources
+C:\Users\Mervksss\Desktop\UcakBiletRezervasyon\Formlar\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\Mervksss\Desktop\UcakBiletRezervasyon\Formlar\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\Mervksss\Desktop\UcakBiletRezervasyon\Formlar\obj\Debug\UI.csproj.CopyComplete
+C:\Users\Mervksss\Desktop\UcakBiletRezervasyon\Formlar\obj\Debug\Formlar.exe
+C:\Users\Mervksss\Desktop\UcakBiletRezervasyon\Formlar\obj\Debug\Formlar.pdb

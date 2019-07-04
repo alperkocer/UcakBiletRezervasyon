@@ -1,0 +1,37 @@
+C:\Users\irem eren\Desktop\proje\UcakBiletRezervasyon\DATA\bin\Debug\DATA.dll
+C:\Users\irem eren\Desktop\proje\UcakBiletRezervasyon\DATA\bin\Debug\DATA.pdb
+C:\Users\irem eren\Desktop\proje\UcakBiletRezervasyon\DATA\obj\Debug\DATA.csprojAssemblyReference.cache
+C:\Users\irem eren\Desktop\proje\UcakBiletRezervasyon\DATA\obj\Debug\DATA.csproj.CoreCompileInputs.cache
+C:\Users\irem eren\Desktop\proje\UcakBiletRezervasyon\DATA\obj\Debug\DATA.dll
+C:\Users\irem eren\Desktop\proje\UcakBiletRezervasyon\DATA\obj\Debug\DATA.pdb
+C:\Users\irem eren\Desktop\Yeni klasör (4)\UcakBiletRezervasyon\DATA\bin\Debug\DATA.dll
+C:\Users\irem eren\Desktop\Yeni klasör (4)\UcakBiletRezervasyon\DATA\bin\Debug\DATA.pdb
+C:\Users\irem eren\Desktop\Yeni klasör (4)\UcakBiletRezervasyon\DATA\obj\Debug\DATA.csprojAssemblyReference.cache
+C:\Users\irem eren\Desktop\Yeni klasör (4)\UcakBiletRezervasyon\DATA\obj\Debug\DATA.csproj.CoreCompileInputs.cache
+C:\Users\irem eren\Desktop\Yeni klasör (4)\UcakBiletRezervasyon\DATA\obj\Debug\DATA.dll
+C:\Users\irem eren\Desktop\Yeni klasör (4)\UcakBiletRezervasyon\DATA\obj\Debug\DATA.pdb
+C:\Users\irem eren\Desktop\Yeni klasör (4)\UcakBiletRezervasyon\DATA\bin\Debug\DATA.dll.config
+C:\Users\irem eren\Desktop\Yeni klasör (4)\UcakBiletRezervasyon\DATA\bin\Debug\EntityFramework.dll
+C:\Users\irem eren\Desktop\Yeni klasör (4)\UcakBiletRezervasyon\DATA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\irem eren\Desktop\Yeni klasör (4)\UcakBiletRezervasyon\DATA\bin\Debug\EntityFramework.xml
+C:\Users\irem eren\Desktop\Yeni klasör (4)\UcakBiletRezervasyon\DATA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\irem eren\Desktop\Yeni klasör (4)\UcakBiletRezervasyon\DATA\obj\Debug\DATA.csproj.CopyComplete
+C:\Users\irem eren\Desktop\proje\zz\UcakBiletRezervasyon\DATA\bin\Debug\DATA.dll.config
+C:\Users\irem eren\Desktop\proje\zz\UcakBiletRezervasyon\DATA\bin\Debug\DATA.dll
+C:\Users\irem eren\Desktop\proje\zz\UcakBiletRezervasyon\DATA\bin\Debug\DATA.pdb
+C:\Users\irem eren\Desktop\proje\zz\UcakBiletRezervasyon\DATA\bin\Debug\EntityFramework.dll
+C:\Users\irem eren\Desktop\proje\zz\UcakBiletRezervasyon\DATA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\irem eren\Desktop\proje\zz\UcakBiletRezervasyon\DATA\bin\Debug\EntityFramework.xml
+C:\Users\irem eren\Desktop\proje\zz\UcakBiletRezervasyon\DATA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\irem eren\Desktop\proje\zz\UcakBiletRezervasyon\DATA\obj\Debug\DATA.csprojAssemblyReference.cache
+C:\Users\irem eren\Desktop\proje\zz\UcakBiletRezervasyon\DATA\obj\Debug\DATA.csproj.CoreCompileInputs.cache
+C:\Users\irem eren\Desktop\proje\zz\UcakBiletRezervasyon\DATA\obj\Debug\DATA.csproj.CopyComplete
+C:\Users\irem eren\Desktop\proje\zz\UcakBiletRezervasyon\DATA\obj\Debug\DATA.dll
+C:\Users\irem eren\Desktop\proje\zz\UcakBiletRezervasyon\DATA\obj\Debug\DATA.pdb
+C:\Users\Mervksss\Desktop\UcakBiletRezervasyon\DATA\bin\Debug\DATA.dll.config
+C:\Users\Mervksss\Desktop\UcakBiletRezervasyon\DATA\bin\Debug\DATA.dll
+C:\Users\Mervksss\Desktop\UcakBiletRezervasyon\DATA\bin\Debug\DATA.pdb
+C:\Users\Mervksss\Desktop\UcakBiletRezervasyon\DATA\obj\Debug\DATA.csprojAssemblyReference.cache
+C:\Users\Mervksss\Desktop\UcakBiletRezervasyon\DATA\obj\Debug\DATA.csproj.CoreCompileInputs.cache
+C:\Users\Mervksss\Desktop\UcakBiletRezervasyon\DATA\obj\Debug\DATA.dll
+C:\Users\Mervksss\Desktop\UcakBiletRezervasyon\DATA\obj\Debug\DATA.pdb

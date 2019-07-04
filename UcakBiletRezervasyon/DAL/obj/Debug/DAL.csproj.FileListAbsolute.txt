@@ -1,0 +1,71 @@
+C:\Users\irem eren\Desktop\proje\UcakBiletRezervasyon\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\irem eren\Desktop\proje\UcakBiletRezervasyon\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\irem eren\Desktop\proje\UcakBiletRezervasyon\DAL\bin\Debug\DAL.dll.config
+C:\Users\irem eren\Desktop\proje\UcakBiletRezervasyon\DAL\bin\Debug\DAL.dll
+C:\Users\irem eren\Desktop\proje\UcakBiletRezervasyon\DAL\bin\Debug\DAL.pdb
+C:\Users\irem eren\Desktop\proje\UcakBiletRezervasyon\DAL\bin\Debug\DATA.dll
+C:\Users\irem eren\Desktop\proje\UcakBiletRezervasyon\DAL\bin\Debug\DATA.pdb
+C:\Users\irem eren\Desktop\proje\UcakBiletRezervasyon\DAL\bin\Debug\Autofac.pdb
+C:\Users\irem eren\Desktop\proje\UcakBiletRezervasyon\DAL\bin\Debug\Autofac.xml
+C:\Users\irem eren\Desktop\proje\UcakBiletRezervasyon\DAL\bin\Debug\EntityFramework.xml
+C:\Users\irem eren\Desktop\proje\UcakBiletRezervasyon\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\irem eren\Desktop\proje\UcakBiletRezervasyon\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\irem eren\Desktop\proje\UcakBiletRezervasyon\DAL\obj\Debug\DAL.dll
+C:\Users\irem eren\Desktop\proje\UcakBiletRezervasyon\DAL\obj\Debug\DAL.pdb
+C:\Users\irem eren\Desktop\proje\UcakBiletRezervasyon\DAL\bin\Debug\Autofac.dll
+C:\Users\irem eren\Desktop\proje\UcakBiletRezervasyon\DAL\bin\Debug\EntityFramework.dll
+C:\Users\irem eren\Desktop\proje\UcakBiletRezervasyon\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\irem eren\Desktop\Yeni klasör (4)\UcakBiletRezervasyon\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\irem eren\Desktop\Yeni klasör (4)\UcakBiletRezervasyon\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\irem eren\Desktop\Yeni klasör (4)\UcakBiletRezervasyon\DAL\obj\Debug\DAL.dll
+C:\Users\irem eren\Desktop\Yeni klasör (4)\UcakBiletRezervasyon\DAL\obj\Debug\DAL.pdb
+C:\Users\irem eren\Desktop\Yeni klasör (4)\UcakBiletRezervasyon\DAL\bin\Debug\DAL.dll.config
+C:\Users\irem eren\Desktop\Yeni klasör (4)\UcakBiletRezervasyon\DAL\bin\Debug\DAL.dll
+C:\Users\irem eren\Desktop\Yeni klasör (4)\UcakBiletRezervasyon\DAL\bin\Debug\DAL.pdb
+C:\Users\irem eren\Desktop\Yeni klasör (4)\UcakBiletRezervasyon\DAL\bin\Debug\Autofac.dll
+C:\Users\irem eren\Desktop\Yeni klasör (4)\UcakBiletRezervasyon\DAL\bin\Debug\DATA.dll
+C:\Users\irem eren\Desktop\Yeni klasör (4)\UcakBiletRezervasyon\DAL\bin\Debug\EntityFramework.dll
+C:\Users\irem eren\Desktop\Yeni klasör (4)\UcakBiletRezervasyon\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\irem eren\Desktop\Yeni klasör (4)\UcakBiletRezervasyon\DAL\bin\Debug\DATA.pdb
+C:\Users\irem eren\Desktop\Yeni klasör (4)\UcakBiletRezervasyon\DAL\bin\Debug\Autofac.pdb
+C:\Users\irem eren\Desktop\Yeni klasör (4)\UcakBiletRezervasyon\DAL\bin\Debug\Autofac.xml
+C:\Users\irem eren\Desktop\Yeni klasör (4)\UcakBiletRezervasyon\DAL\bin\Debug\EntityFramework.xml
+C:\Users\irem eren\Desktop\Yeni klasör (4)\UcakBiletRezervasyon\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\irem eren\Desktop\Yeni klasör (4)\UcakBiletRezervasyon\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\irem eren\Desktop\Yeni klasör (4)\UcakBiletRezervasyon\DAL\bin\Debug\DATA.dll.config
+C:\Users\irem eren\Desktop\proje\zz\UcakBiletRezervasyon\DAL\bin\Debug\DAL.dll.config
+C:\Users\irem eren\Desktop\proje\zz\UcakBiletRezervasyon\DAL\bin\Debug\DAL.dll
+C:\Users\irem eren\Desktop\proje\zz\UcakBiletRezervasyon\DAL\bin\Debug\DAL.pdb
+C:\Users\irem eren\Desktop\proje\zz\UcakBiletRezervasyon\DAL\bin\Debug\Autofac.dll
+C:\Users\irem eren\Desktop\proje\zz\UcakBiletRezervasyon\DAL\bin\Debug\DATA.dll
+C:\Users\irem eren\Desktop\proje\zz\UcakBiletRezervasyon\DAL\bin\Debug\EntityFramework.dll
+C:\Users\irem eren\Desktop\proje\zz\UcakBiletRezervasyon\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\irem eren\Desktop\proje\zz\UcakBiletRezervasyon\DAL\bin\Debug\DATA.pdb
+C:\Users\irem eren\Desktop\proje\zz\UcakBiletRezervasyon\DAL\bin\Debug\DATA.dll.config
+C:\Users\irem eren\Desktop\proje\zz\UcakBiletRezervasyon\DAL\bin\Debug\Autofac.pdb
+C:\Users\irem eren\Desktop\proje\zz\UcakBiletRezervasyon\DAL\bin\Debug\Autofac.xml
+C:\Users\irem eren\Desktop\proje\zz\UcakBiletRezervasyon\DAL\bin\Debug\EntityFramework.xml
+C:\Users\irem eren\Desktop\proje\zz\UcakBiletRezervasyon\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\irem eren\Desktop\proje\zz\UcakBiletRezervasyon\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\irem eren\Desktop\proje\zz\UcakBiletRezervasyon\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\irem eren\Desktop\proje\zz\UcakBiletRezervasyon\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\irem eren\Desktop\proje\zz\UcakBiletRezervasyon\DAL\obj\Debug\DAL.dll
+C:\Users\irem eren\Desktop\proje\zz\UcakBiletRezervasyon\DAL\obj\Debug\DAL.pdb
+C:\Users\Mervksss\Desktop\UcakBiletRezervasyon\DAL\bin\Debug\DAL.dll.config
+C:\Users\Mervksss\Desktop\UcakBiletRezervasyon\DAL\bin\Debug\DAL.dll
+C:\Users\Mervksss\Desktop\UcakBiletRezervasyon\DAL\bin\Debug\DAL.pdb
+C:\Users\Mervksss\Desktop\UcakBiletRezervasyon\DAL\bin\Debug\Autofac.dll
+C:\Users\Mervksss\Desktop\UcakBiletRezervasyon\DAL\bin\Debug\DATA.dll
+C:\Users\Mervksss\Desktop\UcakBiletRezervasyon\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Mervksss\Desktop\UcakBiletRezervasyon\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mervksss\Desktop\UcakBiletRezervasyon\DAL\bin\Debug\DATA.pdb
+C:\Users\Mervksss\Desktop\UcakBiletRezervasyon\DAL\bin\Debug\DATA.dll.config
+C:\Users\Mervksss\Desktop\UcakBiletRezervasyon\DAL\bin\Debug\Autofac.pdb
+C:\Users\Mervksss\Desktop\UcakBiletRezervasyon\DAL\bin\Debug\Autofac.xml
+C:\Users\Mervksss\Desktop\UcakBiletRezervasyon\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Mervksss\Desktop\UcakBiletRezervasyon\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mervksss\Desktop\UcakBiletRezervasyon\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Mervksss\Desktop\UcakBiletRezervasyon\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Mervksss\Desktop\UcakBiletRezervasyon\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Mervksss\Desktop\UcakBiletRezervasyon\DAL\obj\Debug\DAL.dll
+C:\Users\Mervksss\Desktop\UcakBiletRezervasyon\DAL\obj\Debug\DAL.pdb

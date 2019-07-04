@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{91AC8F8C-50AF-48F2-BC43-DB32CC7BC3C9}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Formlar</RootNamespace>
+    <AssemblyName>Formlar</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Messaging" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Bilgiler.cs" />
+    <Compile Include="KoltukSecimi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KoltukSecimi.Designer.cs">
+      <DependentUpon>KoltukSecimi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Metotlar.cs" />
+    <Compile Include="UcusAra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UcusAra.Designer.cs">
+      <DependentUpon>UcusAra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Biletler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Biletler.Designer.cs">
+      <DependentUpon>Biletler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UyeOl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UyeOl.Designer.cs">
+      <DependentUpon>UyeOl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="YolcuBilgileri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YolcuBilgileri.Designer.cs">
+      <DependentUpon>YolcuBilgileri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Yemek-Bagaj Seçimi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Yemek-Bagaj Seçimi.Designer.cs">
+      <DependentUpon>Yemek-Bagaj Seçimi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Odeme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Odeme.Designer.cs">
+      <DependentUpon>Odeme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Giris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Giris.Designer.cs">
+      <DependentUpon>Giris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="KoltukSecimi.resx">
+      <DependentUpon>KoltukSecimi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UcusAra.resx">
+      <DependentUpon>UcusAra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Biletler.resx">
+      <DependentUpon>Biletler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UyeOl.resx">
+      <DependentUpon>UyeOl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YolcuBilgileri.resx">
+      <DependentUpon>YolcuBilgileri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Yemek-Bagaj Seçimi.resx">
+      <DependentUpon>Yemek-Bagaj Seçimi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Odeme.resx">
+      <DependentUpon>Odeme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Giris.resx">
+      <DependentUpon>Giris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DAL\DAL.csproj">
+      <Project>{5dc8c931-eb32-4a9f-989e-81b3d5e45f2e}</Project>
+      <Name>DAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DATA\DATA.csproj">
+      <Project>{6284f806-544d-42ad-96d6-5b2dd99e359a}</Project>
+      <Name>DATA</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
